@@ -1,0 +1,4 @@
+# Rename this file to .dev.vars for local Cloudflare Pages testing.
+# Never commit .dev.vars or share the values.
+FAL_KEY="PASTE_YOUR_FAL_AI_KEY_HERE"
+APP_ACCESS_CODE="MAKE_A_LONG_RANDOM_BETA_ACCESS_CODE"
